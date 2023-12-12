@@ -1,0 +1,4 @@
+.navbar {
+  border-left: 4px solid var(--bs-purple);
+  height: 70px;
+}

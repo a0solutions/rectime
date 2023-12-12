@@ -1,0 +1,7 @@
+.main-container {
+  position: fixed;
+  top: 70px;
+  width: calc(100% - 200px);
+  margin-left: 200px;
+  min-height: calc(100vh - 70px);
+}

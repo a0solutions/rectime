@@ -1,0 +1,13 @@
+li:first-child {
+  background: var(--bs-gray-300);
+}
+.project__tool {
+  padding: 5px 10px;
+  border-left: 1px dotted lightgray;
+}
+.project--name {
+  margin-top: 10px;
+}
+.dropdown-toggle::after {
+  display: none;
+}
